@@ -6,6 +6,12 @@ My favorite programming language is Python because of its versatility.
 
 ## This is the second largest heading
 
+### Images
+
+We can insert images in Markdown using localized files:
+
+![](/okayge_teatime.jpg)
+
 ### Styling text
 
 **Bold Text**, *Italicized Text*, ~~Strikethrough Text~~, **We can _combine_ formatting**, ***Bold and Italicized Text***
